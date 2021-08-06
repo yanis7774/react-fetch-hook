@@ -1,8 +1,10 @@
-.DS_Store
-npm-debug.log
-
-.cache/
-dist/
-node_modules/
-.idea/
-.vscode/
+# File konfigurasi IDE
+# ---------------------
+/nbproject/
+.idea/*
+# File cache Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
